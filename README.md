@@ -1,4 +1,4 @@
-##### Openai Assistants API를 파이썬 코드로 활용하는 방법 복습
+### Openai Assistants API를 파이썬 코드로 활용하는 방법 복습
 2023년 12월 2일 유튜버 [조코딩](https://youtube.com/@jocoding?si=a-vUWSv1NkJZFxS7) 채널에서 진행한 과정입니다.\
 \
 [Open AI assistants](https://platform.openai.com/assistants)의 Playground에서 사용 가능한 챗봇을 API로 다른 환경에서도 구현할 수 있습니다.
