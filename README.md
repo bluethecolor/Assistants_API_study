@@ -3,6 +3,8 @@
 \
 [Open AI assistants](https://platform.openai.com/assistants)의 Playground에서 사용 가능한 챗봇을 API로 다른 환경에서도 구현할 수 있습니다.
 
+
+
 0. load_dotenv을 활용하여 .env에 저장되어 있는 **OPENAI_API_KEY**을 불러와서 client에 저장한다.
 
 ```python
