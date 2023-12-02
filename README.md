@@ -169,5 +169,5 @@ run에서 설정한 instructions 때문에 처음 대답이 위와 같이 나왔
 
 이제 해당 과정을 이용하여 저작권 완료 소설을 이용하고, tools의 Retrival을 이용하여 소설 기반 챗봇 api를 생성할 수 있습니다.
 
-[Streamlit을 활용한 현진건 작가님 AI 챗봇](app.py)
+[Streamlit을 활용한 현진건 작가님 AI 챗봇](app.py)
 
